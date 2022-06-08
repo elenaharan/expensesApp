@@ -35,7 +35,6 @@
   border-radius: 12px;
 }
 
-/*Desktop*/
 @media (min-width: 580px) {
   .expense-item__description {
     flex-direction: row;
