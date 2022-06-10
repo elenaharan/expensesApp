@@ -1,4 +1,5 @@
 import './App.css';
+import ExpenseFilter from './components/Expenses/ExpenseFilter';
 import Expenses from './components/Expenses/Expenses';
 import NewExpense from './components/NewExpenses/NewExpense';
 
